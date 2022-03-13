@@ -23,6 +23,7 @@ namespace UiTestProject
             // IWebElement login = wait.Until(driver => loginButton);
 
             var username = driver.FindElement(By.Name("user-name"));
+
             username.SendKeys("standard_user");
             var password = driver.FindElement(By.Name("password"));
             password.SendKeys("secret_sauce");
