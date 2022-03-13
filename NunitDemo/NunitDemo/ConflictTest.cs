@@ -13,7 +13,7 @@ namespace NunitDemo
 			[Test]
 			public void CTest()
 			{
-				Console.WriteLine("This is Conlict Commit By QA");
+				Console.WriteLine("This is Conlict Commit By Nahid QA");
 			Console.WriteLine("Empty");
 
 			Console.WriteLine("Conflict By Nahid Original");
