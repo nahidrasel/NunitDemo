@@ -15,6 +15,8 @@ namespace NunitDemo
 			{
 				Console.WriteLine("This is Conlict Commit By QA");
 
+			Console.WriteLine("Conflict By QA")
+
 				Assert.Pass();
 
 			}
