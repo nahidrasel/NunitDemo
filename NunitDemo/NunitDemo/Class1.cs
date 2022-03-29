@@ -8,6 +8,7 @@ namespace NunitDemo
 {
     internal class Class1
     {
-        fdhfdsgjh;
+        fdhfdsgjh;gf;
+            ;
     }
 }
